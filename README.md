@@ -59,7 +59,7 @@ pip install pandas numpy ta nltk pmdarima scikit-learn xgboost lightgbm matplotl
 I'm very enthusiastic and Driven about Computer Science Engineering Student specializing in Artificial Intelligence and Machine Learning. With a strong foundation in Data science, with hands-on experience in ML and NLP.
 
 
-[![linkedin] (www.linkedin.com/in/prateetmandhata)
+[![linkedin] - (www.linkedin.com/in/prateetmandhata)
 
 
 ## Authors
